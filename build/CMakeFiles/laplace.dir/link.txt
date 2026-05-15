@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblaplace.a  CMakeFiles/laplace.dir/src/laplace.cpp.o
+/usr/bin/ranlib liblaplace.a

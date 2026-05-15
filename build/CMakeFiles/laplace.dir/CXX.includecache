@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/laplace.hpp
+vector
+-
+
+/export/home3/seecs/class/user29/CS-435-Parallel-and-Distributed-Processing/CS-435-Parallel-and-Distributed-Processing/src/laplace.cpp
+laplace.hpp
+/export/home3/seecs/class/user29/CS-435-Parallel-and-Distributed-Processing/CS-435-Parallel-and-Distributed-Processing/src/laplace.hpp
+algorithm
+-
+cmath
+-
+omp.h
+-
+

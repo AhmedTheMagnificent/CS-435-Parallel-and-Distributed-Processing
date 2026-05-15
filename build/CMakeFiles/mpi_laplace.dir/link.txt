@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -fopenmp -O3 -march=native    CMakeFiles/mpi_laplace.dir/src/mpi_laplace.cpp.o  -o mpi_laplace -rdynamic liblaplace.a /opt/openmpi/lib/libmpi_cxx.so /opt/openmpi/lib/libmpi.so -libverbs -ldat -lrt -lnsl -lutil -lm -ldl -lm -lrt -lnsl -lutil -lm -ldl -Wl,-rpath,/opt/openmpi/lib 

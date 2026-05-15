@@ -1,0 +1,3 @@
+/export/home3/seecs/class/user29/CS-435-Parallel-and-Distributed-Processing/CS-435-Parallel-and-Distributed-Processing/build/CMakeFiles/benchmark.dir
+/export/home3/seecs/class/user29/CS-435-Parallel-and-Distributed-Processing/CS-435-Parallel-and-Distributed-Processing/build/CMakeFiles/laplace.dir
+/export/home3/seecs/class/user29/CS-435-Parallel-and-Distributed-Processing/CS-435-Parallel-and-Distributed-Processing/build/CMakeFiles/mpi_laplace.dir
