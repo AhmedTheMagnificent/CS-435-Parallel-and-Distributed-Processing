@@ -11,7 +11,7 @@ import numpy as np
 
 sizes, serial, openmp = [], [], []
 
-with open("timing.csv") as f:
+with open(r"build\timing.csv") as f:
     for row in csv.DictReader(f):
         sizes.append(int(row["N"]))
         serial.append(float(row["serial_s"]))
